@@ -139,7 +139,7 @@ img {
 }
 .header-img:hover,
 .header-img:focus {
-  fill: var(--accent-color);
+  color: var(--accent-color);
 }
 .nav-cont {
   display: flex;
