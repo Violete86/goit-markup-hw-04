@@ -515,13 +515,20 @@ img {
   margin-top: 34px;
   gap: 30px;
 }
-.card {
+.porfolio-link {
+}
+.portfolio-link:hover {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+    1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+.portfolio-card-info {
   padding: 20px 24px;
   border-top: 0;
   border: 1px solid var(--border-card-color);
 }
 
 .portfolio-tittle {
+  margin-top: 20px;
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
