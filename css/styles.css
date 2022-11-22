@@ -500,20 +500,14 @@ img {
   background-color: #2196f3;
   color: #ffffff;
 }
-/* .current-portfolio {
-  color: var(--hero-bg-color);
-}
-.current-portfolio:hover,
-.current-portfolio:focus {
-  background-color: var(--accent-color);
-  color: var(--body-bg-color);
-} */
 
 .portfolio-works {
   display: flex;
   flex-wrap: wrap;
   margin-top: 34px;
   gap: 30px;
+}
+.portfolio-works-item {
 }
 .porfolio-link {
 }
